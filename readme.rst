@@ -1,4 +1,14 @@
 ###################
+CHANGE AND USE 
+###################
+
+file location :- application/libraries/amazon_order_api/src/MarketplaceWebServiceOrders/Samples/.config.inc.php
+
+set all your amazone MWS KEY 
+
+
+
+###################
 What is CodeIgniter
 ###################
 
@@ -68,3 +78,7 @@ Acknowledgement
 
 The CodeIgniter team would like to thank EllisLab, all the
 contributors to the CodeIgniter project and you, the CodeIgniter user.
+
+
+
+
