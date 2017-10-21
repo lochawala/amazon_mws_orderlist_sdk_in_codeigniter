@@ -1,12 +1,5 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Dreamworld Solutions
- * Date: 10/12/17
- * Time: 10:25 AM
- */
-//require_once('.config.inc.php');
 
 class Orders extends CI_Controller
 {
