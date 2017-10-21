@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: prati
- * Date: 9/24/2017
- * Time: 8:01 PM
- */
+
 class Helper extends CI_Controller
 {
     public function __construct()
