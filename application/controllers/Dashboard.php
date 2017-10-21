@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Dreamworld Solutions
- * Date: 10/07/17
- * Time: 10:52 AM
- */
+
 class Dashboard extends CI_Controller
 {
 
