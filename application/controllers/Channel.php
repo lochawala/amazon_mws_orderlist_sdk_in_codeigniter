@@ -1,11 +1,6 @@
 <?php
 
-/**
- * Created by PhpStorm.
- * User: Dreamworld Solutions
- * Date: 10/11/17
- * Time: 11:21 AM
- */
+
 class Channel extends CI_Controller
 {
 
